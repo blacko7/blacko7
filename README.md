@@ -15,5 +15,5 @@ I'm a Student learning  Software Engineering(Front-End),I am passionate about sh
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=blacko07&show_icons=true&include_all_commits=true&hide_border=true" alt="Ben's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacko07&langs_count=8&layout=compact&hide_border=true" alt="Blacko07's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=blacko07&show_icons=true&include_all_commits=true&hide_border=true" alt="Ben's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacko07&langs_count=8&layout=compact&hide_border=true" alt="blacko07's GitHub stats" /> |
 | ------------- | ------------- |
